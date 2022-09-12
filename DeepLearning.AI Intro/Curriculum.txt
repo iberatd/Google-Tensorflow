@@ -1,0 +1,19 @@
+C1W1 - Intro
+C1W2 - Load Data, Callbacks
+C1W3 - CNN, 
+C1W4 - ImageDataGenerator, Validation, Convnet(Transfer Learning)
+/// Computer Vision
+C2W1 - Cropping, data loading kaggle, Accuracy & Loss
+C2W2 - Augmentation, ImageDataGenerator
+C2W3 - Transfer Learning, Dropout
+C2W4 - Multiclass Transformation
+/// NLP
+C3W1 - Embedding, Encoding, Tokenizer, Padding
+C3W2 - Loss, Pre_tokenized dataset
+C3W3 - LSTM, Convolution
+C3W4 - Predicting next word
+///Sequence Analysis
+C4W1 - Moving Average, Windows, Seasonality-Trend
+C4W2 - Feature and Label, Windowed Dataset
+C4W3 - RNN, Lambda Layers, Adjusting Learning Rate Dynamically, Huber Loss
+C4W4 - Convolution, Biderctional LSTM, 
